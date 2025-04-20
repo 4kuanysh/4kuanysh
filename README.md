@@ -13,11 +13,12 @@
 
 ###
 
-<h2 align="left">Android</h2>
+<h2 align="left">Учебные проекты</h2>
 
 ###
 
-<p align="left">1. Project</p>
+<p align="left"><a href="https://github.com/4kuanysh/MemorizeIOS">iOS Memorize</a></p>
+<p align="left"><a href="https://github.com/4kuanysh/foodcloud">Java Spring</a></p>
 
 ###
 
